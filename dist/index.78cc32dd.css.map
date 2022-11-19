@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["style/style.css"],"sourcesContent":["h1{\r\n    color: red;\r\n}\r\n\r\n.splide{\r\n    width: 700px;\r\n    height: 200px;\r\n    margin: 10px auto;\r\n}\r\n\r\n\r\n"],"names":[],"version":3,"file":"index.78cc32dd.css.map","sourceRoot":"/__parcel_source_root/"}
